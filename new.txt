@@ -1,0 +1,5 @@
+1.Name: Svetlana Naumova
+2.Age: 30
+3.Pets: 1
+Salary: 300 y.e
+
